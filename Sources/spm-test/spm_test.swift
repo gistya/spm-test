@@ -3,3 +3,8 @@ public enum X {
     case b(Int)
 }
 
+#if DEBUG
+public enum Debug {
+    case debug
+}
+#endif
