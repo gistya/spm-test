@@ -5,6 +5,6 @@ public enum X {
 
 #if DEBUG
 public enum Debug {
-    case debug
+    case debug2
 }
 #endif
